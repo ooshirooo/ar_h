@@ -1,0 +1,5 @@
+#下記のファイルを管理対象から除外
+*DS*Store
+ship*.scn
+shipship*.scn
+preset.dae
